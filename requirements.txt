@@ -1,10 +1,10 @@
 streamlit
 pandas
 openai
-langchain
 langchain-google-genai
 python-dotenv
 pypdf
 pyttsx3
 SpeechRecognition
 streamlit-oauth
+langchain
