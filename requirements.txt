@@ -12,3 +12,4 @@ pypdf
 pyttsx3
 SpeechRecognition
 streamlit-oauth
+streamlit-ace
