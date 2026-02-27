@@ -1,0 +1,30 @@
+# Core
+streamlit
+pandas
+python-dotenv
+pydantic
+
+# PDF handling
+pypdf
+
+# Speech / Audio
+SpeechRecognition
+pyttsx3
+
+# UI / Editor
+streamlit-ace
+
+# OAuth / Auth
+streamlit-oauth
+
+# LangChain (stable)
+langchain
+langchain-core
+langchain-community
+
+# LLM Providers
+openai
+langchain-openai
+google-generativeai
+langchain-google-genai
+langchain-groq
